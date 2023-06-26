@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <formFactors>Small</formFactors>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
+    <label>PartnerVisits</label>
+    <navType>Standard</navType>
+    <tabs>standard-home</tabs>
+    <tabs>standard-Account</tabs>
+    <tabs>standard-BusinessProfile</tabs>
+    <tabs>standard-Visit</tabs>
+    <tabs>standard-ActionPlan</tabs>
+    <tabs>standard-ActionPlanTemplate</tabs>
+    <tabs>standard-GenericVisitTaskContext</tabs>
+    <tabs>standard-GenericVisitTask</tabs>
+    <tabs>standard-GnrcVstTaskContextRelation</tabs>
+    <tabs>standard-AssessmentIndicatorDefinition</tabs>
+    <tabs>standard-GnrcVstKeyPerformanceInd</tabs>
+    <uiType>Lightning</uiType>
+</CustomApplication>
