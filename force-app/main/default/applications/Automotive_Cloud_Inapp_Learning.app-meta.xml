@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <brand>
+        <headerColor>#0070D2</headerColor>
+        <logo>Screenshot_20221205_at_122607_PM</logo>
+        <logoVersion>1</logoVersion>
+        <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
+    </brand>
+    <description>Welcome to the Automotive Cloud in-app navigation. The app helps you in getting started with Automotive cloud  through a series of prompts, designed to help you navigate through the different features and enablement artefacts.</description>
+    <formFactors>Small</formFactors>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
+    <label>Automotive Cloud In-app Learning</label>
+    <navType>Standard</navType>
+    <tabs>Home</tabs>
+    <uiType>Lightning</uiType>
+    <utilityBar>Automotive_Cloud_In_app_Learning_UtilityBar</utilityBar>
+</CustomApplication>

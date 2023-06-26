@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>Admin_Home_Engl_Desc</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Admin Home Engl Desc</shortDescription>
+        <value>Set up and configure foundational basics, including objects, Sales Agreements, Advanced Account Forecasting, and more.</value>
+    </labels>
+    <labels>
+        <fullName>DPE_Data_Count</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>DPE Data Count</shortDescription>
+        <value>mfcdpe2022__Record_Count__c</value>
+    </labels>
+    <labels>
+        <fullName>DPE_Name</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>DPE Name</shortDescription>
+        <value>Name</value>
+    </labels>
+    <labels>
+        <fullName>Debug_DPE_Object</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Debug DPE Object</shortDescription>
+        <value>mfcdpe2022__Data_Processing_Engine_Node_Metric__c</value>
+    </labels>
+    <labels>
+        <fullName>EasyDPEEditappcheckhelptext</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Easy DPE Edit app help text</shortDescription>
+        <value>Select whether you want the Data Processing Engine definition to apply the eligibility criteria for rebate types and the Included or Excluded product filters for aggregation.</value>
+    </labels>
+    <labels>
+        <fullName>Easy_DPE_Edit_App_Aggr_SubHeader</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Easy DPE Edit App Aggreate SubHeader</shortDescription>
+        <value>Select a source custom field from the Transaction Journal object and map it to the target field on the aggregate object to group data such as category and region.</value>
+    </labels>
+    <labels>
+        <fullName>Easy_DPE_Edit_App_SubHeahder</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Easy DPE Edit App SubHeahder</shortDescription>
+        <value>Select a source custom field from the Transaction Journal object and map it to the target field on the aggregate object.</value>
+    </labels>
+    <labels>
+        <fullName>easyDPEEditHeader</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>easy DPE Edit app Header</shortDescription>
+        <value>Easily map custom fields between Transaction Journal and an aggregate object such as the Rebate Member Product Aggregate object.</value>
+    </labels>
+</CustomLabels>
