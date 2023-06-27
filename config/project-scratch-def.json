@@ -1,13 +1,21 @@
 {
-  "orgName": "my company",
-  "edition": "Developer",
-  "features": ["EnableSetPasswordInApi"],
+  "orgName": "MB Scratch org",
+  "edition": "Enterprise",
+  "features": [
+    "IndustriesAutomotive",
+    "IndustriesMfgPartnerLeadMgmt",
+    "IndustriesMfgPartnerVisitMgmt",
+    "IndustriesMfgPartnerPerfMgmt",
+    "InsuranceCalculationUser"
+  ],
   "settings": {
-    "lightningExperienceSettings": {
-      "enableS1DesktopEnabled": true
+    "industriesAutomotiveSettings": {
+      "enableAutomotiveCloud": true
     },
-    "mobileSettings": {
-      "enableS1EncryptedStoragePref2": false
+    "industriesManufacturingSettings": {
+      "enablePartnerVisitManagement": true,
+      "enablePartnerPerformanceManagement": true,
+      "enablePartnerLeadManagement": true
     }
   }
 }

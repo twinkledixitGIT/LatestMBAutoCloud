@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OmniUiCard xmlns="http://soap.sforce.com/2006/04/metadata">
+    <authorName>SCRATCH1</authorName>
+    <dataSourceConfig>{&quot;dataSource&quot;:{&quot;type&quot;:&quot;Query&quot;,&quot;value&quot;:{&quot;dsDelay&quot;:&quot;&quot;,&quot;query&quot;:&quot;select id,name from account&quot;,&quot;resultVar&quot;:&quot;&quot;},&quot;orderBy&quot;:{&quot;name&quot;:&quot;&quot;,&quot;isReverse&quot;:&quot;&quot;},&quot;contextVariables&quot;:[]}}</dataSourceConfig>
+    <isActive>true</isActive>
+    <name>firstflexcard</name>
+    <omniUiCardType>Parent</omniUiCardType>
+    <propertySetConfig>{&quot;states&quot;:[{&quot;fields&quot;:[],&quot;conditions&quot;:{&quot;id&quot;:&quot;state-condition-object&quot;,&quot;isParent&quot;:true,&quot;group&quot;:[]},&quot;definedActions&quot;:{&quot;actions&quot;:[]},&quot;name&quot;:&quot;Active&quot;,&quot;isSmartAction&quot;:false,&quot;smartAction&quot;:{},&quot;styleObject&quot;:{&quot;padding&quot;:[{&quot;type&quot;:&quot;around&quot;,&quot;size&quot;:&quot;x-small&quot;}],&quot;margin&quot;:[{&quot;type&quot;:&quot;bottom&quot;,&quot;size&quot;:&quot;x-small&quot;}],&quot;container&quot;:{&quot;class&quot;:&quot;slds-card&quot;},&quot;size&quot;:{&quot;isResponsive&quot;:false,&quot;default&quot;:&quot;12&quot;},&quot;sizeClass&quot;:&quot;slds-size_12-of-12&quot;,&quot;class&quot;:&quot;slds-card slds-p-around_x-small slds-m-bottom_x-small&quot;}}],&quot;dataSource&quot;:{&quot;type&quot;:&quot;Query&quot;,&quot;value&quot;:{&quot;dsDelay&quot;:&quot;&quot;,&quot;query&quot;:&quot;select id,name from account&quot;,&quot;resultVar&quot;:&quot;&quot;},&quot;orderBy&quot;:{&quot;name&quot;:&quot;&quot;,&quot;isReverse&quot;:&quot;&quot;},&quot;contextVariables&quot;:[]},&quot;title&quot;:&quot;first flex card&quot;,&quot;enableLwc&quot;:true,&quot;isFlex&quot;:true,&quot;theme&quot;:&quot;slds&quot;,&quot;selectableMode&quot;:&quot;Multi&quot;}</propertySetConfig>
+    <sampleDataSourceResponse>[{&quot;attributes&quot;:{&quot;type&quot;:&quot;Account&quot;,&quot;url&quot;:&quot;/services/data/v58.0/sobjects/Account/0015D0000184G0sQAE&quot;},&quot;Id&quot;:&quot;0015D0000184G0sQAE&quot;,&quot;Name&quot;:&quot;Sample Account for Entitlements&quot;}]</sampleDataSourceResponse>
+    <versionNumber>1</versionNumber>
+</OmniUiCard>
